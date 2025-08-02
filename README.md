@@ -1,2 +1,2 @@
 # meu-repositorio-de-autenticacoes
-Repositório de autenticações.
+Meu repositório de autenticações.
